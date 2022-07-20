@@ -1,0 +1,13 @@
+.footer_wrapper{
+    margin: 0px 10px;
+}
+
+.footer{
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+}
+
+.footer >*{
+    margin: 10px auto;
+}
