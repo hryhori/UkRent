@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/UkRent/static/css/main.073c9b0a.css",
-    "main.js": "/UkRent/static/js/main.3f18bfba.js",
+    "main.css": "/UkRent/static/css/main.d5851f8e.css",
+    "main.js": "/UkRent/static/js/main.e988d5ac.js",
     "static/js/787.2527b932.chunk.js": "/UkRent/static/js/787.2527b932.chunk.js",
-    "static/media/logo.svg": "/UkRent/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/UkRent/index.html",
-    "main.073c9b0a.css.map": "/UkRent/static/css/main.073c9b0a.css.map",
-    "main.3f18bfba.js.map": "/UkRent/static/js/main.3f18bfba.js.map",
+    "main.d5851f8e.css.map": "/UkRent/static/css/main.d5851f8e.css.map",
+    "main.e988d5ac.js.map": "/UkRent/static/js/main.e988d5ac.js.map",
     "787.2527b932.chunk.js.map": "/UkRent/static/js/787.2527b932.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3f18bfba.js"
+    "static/css/main.d5851f8e.css",
+    "static/js/main.e988d5ac.js"
   ]
 }
