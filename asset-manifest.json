@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BrotherSocial/static/css/main.073c9b0a.css",
+    "main.js": "/BrotherSocial/static/js/main.49d1d67c.js",
+    "static/js/787.2527b932.chunk.js": "/BrotherSocial/static/js/787.2527b932.chunk.js",
+    "static/media/logo.svg": "/BrotherSocial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/BrotherSocial/index.html",
+    "main.073c9b0a.css.map": "/BrotherSocial/static/css/main.073c9b0a.css.map",
+    "main.49d1d67c.js.map": "/BrotherSocial/static/js/main.49d1d67c.js.map",
+    "787.2527b932.chunk.js.map": "/BrotherSocial/static/js/787.2527b932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.49d1d67c.js"
+  ]
+}
